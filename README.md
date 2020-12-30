@@ -7,12 +7,14 @@
 <li>Added ids</h1>
 <li>Canceled classes</li>
 <li>Added sections</li>
+<br>
 
 <ul>Changelog style.css:</ul>
 <li>Combined the classes with the same attribute</li>
 <li>Rearanged the order of classes</li>
 <li>Id figure img changed the height property for more accesebility</li>
 <li>Corrected the typography</li>
+<br>
 
 
 <ul>Contributing:</ul>
